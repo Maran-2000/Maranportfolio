@@ -4,7 +4,7 @@ body{
 }
 
 .banner{
-    background-image: url(/portfolio/img/comfortable-workplace-bg.avif);
+    background-image: url(../img/comfortable-workplace-bg.avif);
     background-size:cover ;
     background-repeat: no-repeat;
     padding: 200px;
